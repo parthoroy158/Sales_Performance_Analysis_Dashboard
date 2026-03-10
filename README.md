@@ -1,5 +1,5 @@
 
-# Sales Performance Dashboard – Power BI
+# Sales Performance Dashboard
 
 This project presents a Sales Performance Dashboard built using Power BI to transform raw sales data into meaningful business insights. The analysis includes revenue trends, customer performance, product category analysis, and year-wise growth.
 
